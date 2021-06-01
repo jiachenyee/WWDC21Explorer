@@ -1,5 +1,5 @@
 # WWDC21 Swift Student Challenge Submission
-## Pending Results
+## Accepted
 
 ## What's This?
 ### Part 1: Welcome/Tutorial
